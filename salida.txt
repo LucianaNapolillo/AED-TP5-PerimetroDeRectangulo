@@ -1,0 +1,7 @@
+Ingrese los datos para conocer el perimetro del rectangulo:
+Base: -4
+El valor ingresado no es valido. Por favor ingrese otro: 0
+El valor ingresado no es valido. Por favor ingrese otro: 24 
+Altura: 42
+
+El perimetro del rectangulo es: 132
